@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on booting up my system.
-- 🌱 I’m currently learning to migrate from data analyst to data science specialist.
+- 🔭 I’m currently working on re-booting my system
+- 🌱 I’m currently learning to migrate from data analyst to data science specialist
 - 👯 I’m looking to collaborate on troublesome data projects
 - 🤔 I’m looking for help with new exciting opportunities
 - 💬 Ask me about data model/pipeline/visualization

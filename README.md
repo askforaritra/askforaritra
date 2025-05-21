@@ -3,18 +3,16 @@
 █▀█ ██▄ █▄▄ █▄▄ █▄█ 👋
 
 
-**askforaritra/askforaritra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on booting up my system.
+- 🌱 I’m currently learning to migrate from data analyst to data science specialist.
+- 👯 I’m looking to collaborate on troublesome data projects
+- 🤔 I’m looking for help with new exciting opportunities
+- 💬 Ask me about data model/pipeline/visualization
+- 📫 How to reach me: LinkedIn (https://github.com/askforaritra) / Instagram (https://www.instagram.com/askforaritra)
+- 😄 Pronouns: Hehehe / Aye aye Captain
+- ⚡ Fun fact: I can do upside down flip in Assassin's Creed
 
 # 💫 About Me:
 Dynamic Data Analyst with over 5 years of experience driving significant revenue growth through strategic analytics and cutting-edge business intelligence tools. I excel at leading high-performance teams and transforming complex technical insights into compelling business advantages that capture key markets and foster lasting consumer partnerships. <br>An innovative thinker with extensive expertise in developing and adopting next-generation solutions, I am adept at technology management and implementation. My skills in building strategic partnerships and influencing revenue and margin growth are complemented by a strong tactical focus, ensuring impactful results.<br>

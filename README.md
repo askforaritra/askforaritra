@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can do upside down flip in Assassin's Creed
 
 # 💫 About Me:
-Dynamic Data Analyst with over 5 years of experience driving significant revenue growth through strategic analytics and cutting-edge business intelligence tools. I excel at leading high-performance teams and transforming complex technical insights into compelling business advantages that capture key markets and foster lasting consumer partnerships. <br>An innovative thinker with extensive expertise in developing and adopting next-generation solutions, I am adept at technology management and implementation. My skills in building strategic partnerships and influencing revenue and margin growth are complemented by a strong tactical focus, ensuring impactful results.<br>
+👋 I'm a Dynamic Data Analyst with 5+ years of experience in driving revenue growth through strategic analytics and innovative business intelligence tools. I thrive on leading high-performance teams and transforming complex technical insights into actionable business advantages. <br>
+💡 As an innovative thinker, I specialize in developing and adopting next-generation solutions, with a strong focus on technology management and implementation. My expertise in building strategic partnerships and influencing revenue growth ensures impactful results.<br>
+📈 Let's connect and explore how we can leverage data to create meaningful change!<br>
 
 
 ## 🌐 Socials:

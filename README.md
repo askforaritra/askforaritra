@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on troublesome data projects
 - 🤔 I’m looking for help with new exciting opportunities
 - 💬 Ask me about data model/pipeline/visualization
-- 📫 How to reach me: LinkedIn (https://github.com/askforaritra) / Instagram (https://www.instagram.com/askforaritra)
+- 📫 How to reach me: LinkedIn / Instagram 
 - 😄 Pronouns: Hehehe / Aye aye Captain
 - ⚡ Fun fact: I can do upside down flip in Assassin's Creed
 

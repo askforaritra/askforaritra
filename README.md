@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on re-booting my system
-- 🌱 I’m currently learning to migrate from data analyst to data science specialist
-- 👯 I’m looking to collaborate on troublesome data projects
+- 🌱 I’m currently learning to migrate from AI Engineer to AI Solutions specialist
+- 👯 I’m looking to collaborate on troublesome data & ai projects
 - 🤔 I’m looking for help with new exciting opportunities
 - 💬 Ask me about data model/pipeline/visualization
 - 📫 How to reach me: LinkedIn / Instagram 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can do upside down flip in Assassin's Creed
 
 # 💫 About Me:
-👋 I'm a Dynamic Data Analyst with 5+ years of experience in driving revenue growth through strategic analytics and innovative business intelligence tools. I thrive on leading high-performance teams and transforming complex technical insights into actionable business advantages. <br>
+👋 Data and AI consultant with 7 years of billable, customer-facing delivery, currently part of the Microsoft–TCS technology partnership. I design agentic AI and RAG solutions on Azure AI Foundry and Copilot Studio, build data platforms on Microsoft Fabric, Azure Databricks and Azure Synapse, and secure them with Microsoft Purview, Entra ID and Key Vault. Experienced in Responsible AI, evaluation and grounding, Power Platform automation, and in mentoring peers and contributing reusable IP. <br>
 💡 As an innovative thinker, I specialize in developing and adopting next-generation solutions, with a strong focus on technology management and implementation. My expertise in building strategic partnerships and influencing revenue growth ensures impactful results.<br>
 📈 Let's connect and explore how we can leverage data to create meaningful change!<br>
 

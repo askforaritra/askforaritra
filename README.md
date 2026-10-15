@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on re-booting my system
+- 🔭 I’m currently working on re-booting my home server
 - 🌱 I’m currently learning to migrate from AI Engineer to AI Solutions specialist
 - 👯 I’m looking to collaborate on troublesome data & ai projects
 - 🤔 I’m looking for help with new exciting opportunities
